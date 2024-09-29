@@ -63,9 +63,3 @@ Make sure you have the following installed:
 - MongoDB
 - Git
 
-### Steps to Set Up Locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd employee-management-system
