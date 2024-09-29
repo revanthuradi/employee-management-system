@@ -10,6 +10,7 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
+- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
 
