@@ -10,9 +10,11 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
-- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+video demo : https://drive.google.com/file/d/1mZkaeSsPh0aaDRuueAX0PZg4pnTRpt2S/view?usp=drive_link
 
 ## Introduction
 The **Employee Management System** is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to manage employee data efficiently with features like authentication (signup and login), CRUD operations (Create, Read, Update, Delete) for employee information, and real-time notifications.
