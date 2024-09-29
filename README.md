@@ -10,14 +10,15 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
+- [Demo Video](#demo-video)
 - [Contributing](#contributing)
 - [License](#license)
 
 
-video demo : https://drive.google.com/file/d/1mZkaeSsPh0aaDRuueAX0PZg4pnTRpt2S/view?usp=drive_link
-
+## demo video : https://drive.google.com/file/d/1mZkaeSsPh0aaDRuueAX0PZg4pnTRpt2S/view?usp=drive_link
+  
 ## Introduction
-The **Employee Management System** is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to manage employee data efficiently with features like authentication (signup and login), CRUD operations (Create, Read, Update, Delete) for employee information, and real-time notifications.
+The **Employee Management System** is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to manage employee data efficiently with features like authentication (signup and login), CRUD operations (Create, Read, Update, Delete) for employee information, and real-time notifications. Employee images are stored securely using Cloudinary.
 
 This application is ideal for small and medium-sized organizations looking to maintain a database of employees with a simple and intuitive UI and secure backend.
 
@@ -29,6 +30,7 @@ This application is ideal for small and medium-sized organizations looking to ma
 - Form validation using Formik and Yup.
 - Toast notifications for user feedback.
 - Role-based access (admin functionalities for employee management).
+- Employee images are uploaded and stored in **Cloudinary**.
 
 ## Technologies Used
 
@@ -51,6 +53,7 @@ This application is ideal for small and medium-sized organizations looking to ma
 - **JWT (jsonwebtoken)**: Used for authentication and authorization.
 - **cors**: Middleware to enable CORS.
 - **dotenv**: Environment variable management.
+- **Cloudinary**: Cloud-based service for image storage and management.
 
 ## Installation
 
